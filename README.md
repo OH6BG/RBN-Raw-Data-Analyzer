@@ -24,7 +24,7 @@ HOW TO USE THIS SCRIPT
    skimmers, enter the list of skimmers (separated by a comma) when prompted.
    You can also enter just one skimmer. If you just press ENTER at that point,
    statistics from ALL skimmers will be reported.
-6. Processing of the files will be shown on the console.
+6. Processing of the files will be shown on the screen.
 
 06 Jul 2016: Added choice of skimmers. Processing info will be displayed
 on the screen. Added automatic unzipping of the RBN raw data ZIP files.
