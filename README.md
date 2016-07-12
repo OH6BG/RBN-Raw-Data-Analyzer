@@ -26,6 +26,8 @@ HOW TO USE THIS SCRIPT
    statistics from ALL skimmers will be reported.
 6. Processing of the files will be shown on the screen.
 
+12 Jul 2016: Moved to GitHub.
+
 06 Jul 2016: Added choice of skimmers. Processing info will be displayed
 on the screen. Added automatic unzipping of the RBN raw data ZIP files.
 
