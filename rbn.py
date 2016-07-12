@@ -66,7 +66,7 @@ def process(rbnFile, skimmer):
                 
         statinfo = os.stat(rbnFile)
         fl = statinfo.st_size
-        print("RBN File Analyzer, v0.1. Jari Perkiömäki OH6BG\n")
+        print("RBN File Analyzer, v0.1. (c) Jari Perkiömäki OH6BG\n")
         print("Analyzing file: " + rbnFile + " (" + str(round(fl/1000000)) + " MB)")
 
         if skimmer is not '':
